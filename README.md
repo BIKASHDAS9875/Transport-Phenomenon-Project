@@ -3,8 +3,17 @@
 ## Author
 Bikash Das
 
-## Description
-This repository contains my self project report on Transport Phenomenon.
+## Overview
+This repository contains my self-project report on Transport Phenomenon. The report covers the theoretical background, methodology, calculations, and conclusions related to the project.
 
-## Project File
-- [SELF PROJECT - BIKASH DAS.pdf](./SELF%20PROJECT%20BIKASH%20DAS.pdf)
+## Contents
+- Project Report (PDF)
+
+## Skills Demonstrated
+- Transport Phenomena
+- Chemical Engineering Fundamentals
+- Technical Report Writing
+- Data Analysis
+
+## Project Report
+Download the PDF from the repository to view the complete report.
